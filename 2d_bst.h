@@ -1,6 +1,6 @@
 //
 //  2d_bst.h
-//  2D red-black BST
+//  2D BST
 //
 //  Created by Andras Szabo on 15/03/14.
 //  Copyright (c) 2014 Andras Szabo. All rights reserved.
